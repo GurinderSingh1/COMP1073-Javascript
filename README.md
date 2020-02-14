@@ -1,1 +1,1 @@
-# Comp1073-JavaScript
+# Comp1073-Assignment1
